@@ -21,7 +21,7 @@
    `("dnd"
      ,(concat
        (format
-        "\\documentclass[10pt,twoside,twocolumn,openany[CO]]{%s}
+        "\\documentclass[10pt,twoside,twocolumn,openany]{%s}
 [NO-DEFAULT-PACKAGES]
 \\usepackage[AUTO]{babel}
 \\usepackage[utf8]{inputenc}
